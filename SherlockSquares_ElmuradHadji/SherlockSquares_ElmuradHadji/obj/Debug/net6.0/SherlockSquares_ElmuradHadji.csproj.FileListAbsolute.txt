@@ -1,0 +1,15 @@
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\bin\Debug\net6.0\SherlockSquares_ElmuradHadji.exe
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\bin\Debug\net6.0\SherlockSquares_ElmuradHadji.deps.json
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\bin\Debug\net6.0\SherlockSquares_ElmuradHadji.runtimeconfig.json
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\bin\Debug\net6.0\SherlockSquares_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\bin\Debug\net6.0\SherlockSquares_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.csproj.AssemblyReference.cache
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.AssemblyInfoInputs.cache
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.AssemblyInfo.cs
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.csproj.CoreCompileInputs.cache
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\refint\SherlockSquares_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\SherlockSquares_ElmuradHadji.genruntimeconfig.cache
+C:\Users\hacie\Desktop\Internship\SherlockSquares_ElmuradHadji\SherlockSquares_ElmuradHadji\obj\Debug\net6.0\ref\SherlockSquares_ElmuradHadji.dll

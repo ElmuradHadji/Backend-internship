@@ -1,0 +1,15 @@
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\bin\Debug\net6.0\SavePrisoner_ElmuradHadji.exe
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\bin\Debug\net6.0\SavePrisoner_ElmuradHadji.deps.json
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\bin\Debug\net6.0\SavePrisoner_ElmuradHadji.runtimeconfig.json
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\bin\Debug\net6.0\SavePrisoner_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\bin\Debug\net6.0\SavePrisoner_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.csproj.AssemblyReference.cache
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.AssemblyInfoInputs.cache
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.AssemblyInfo.cs
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.csproj.CoreCompileInputs.cache
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\refint\SavePrisoner_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\SavePrisoner_ElmuradHadji.genruntimeconfig.cache
+C:\Users\hacie\Desktop\Internship\SavePrisoner_ElmuradHadji\SavePrisoner_ElmuradHadji\obj\Debug\net6.0\ref\SavePrisoner_ElmuradHadji.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SavePrisoner_ElmuradHadji/1.0.0": {
+        "runtime": {
+          "SavePrisoner_ElmuradHadji.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SavePrisoner_ElmuradHadji/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

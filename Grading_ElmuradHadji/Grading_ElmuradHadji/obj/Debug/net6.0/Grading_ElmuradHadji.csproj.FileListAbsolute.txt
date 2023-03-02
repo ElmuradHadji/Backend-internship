@@ -1,0 +1,15 @@
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\bin\Debug\net6.0\Grading_ElmuradHadji.exe
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\bin\Debug\net6.0\Grading_ElmuradHadji.deps.json
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\bin\Debug\net6.0\Grading_ElmuradHadji.runtimeconfig.json
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\bin\Debug\net6.0\Grading_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\bin\Debug\net6.0\Grading_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.csproj.AssemblyReference.cache
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.AssemblyInfoInputs.cache
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.AssemblyInfo.cs
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.csproj.CoreCompileInputs.cache
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\refint\Grading_ElmuradHadji.dll
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.pdb
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\Grading_ElmuradHadji.genruntimeconfig.cache
+C:\Users\hacie\Desktop\Internship\Grading_ElmuradHadji\Grading_ElmuradHadji\obj\Debug\net6.0\ref\Grading_ElmuradHadji.dll

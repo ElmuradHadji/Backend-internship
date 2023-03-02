@@ -1,0 +1,15 @@
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\bin\Debug\net6.0\ClimbingLeaderboard.exe
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\bin\Debug\net6.0\ClimbingLeaderboard.deps.json
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\bin\Debug\net6.0\ClimbingLeaderboard.runtimeconfig.json
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\bin\Debug\net6.0\ClimbingLeaderboard.dll
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\bin\Debug\net6.0\ClimbingLeaderboard.pdb
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.csproj.AssemblyReference.cache
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.AssemblyInfoInputs.cache
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.AssemblyInfo.cs
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.dll
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\refint\ClimbingLeaderboard.dll
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.pdb
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ClimbingLeaderboard.genruntimeconfig.cache
+C:\Users\hacie\Desktop\Internship\ClimbingLeaderboard\ClimbingLeaderboard\obj\Debug\net6.0\ref\ClimbingLeaderboard.dll
